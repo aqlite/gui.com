@@ -84,7 +84,7 @@ details summary ~ * {
     header.style.paddingTop = '2px';
     header.style.fontSize = '1.5rem';
     header.style.textAlign = 'center'
-    header.innerHTML = `Blooket Cheats <span style="font-size: 0.75rem">v4.10.22</span>`;
+    header.innerHTML = `Blooket on steroids <span style="font-size: 0.75rem">v4.10.22</span>`;
 
     let loop;
 
