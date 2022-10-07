@@ -50,7 +50,7 @@ details summary ~ * {
     GUI.style.borderRadius = '10px';
     GUI.style.position = 'absolute';
     GUI.style.textAlign = 'center';
-    GUI.style.fontFamily = 'Nunito';
+    GUI.style.fontFamily = 'Time New Roman;
     GUI.style.color = 'white';
     GUI.style.overflow = 'hidden';
     GUI.style.top = '50px';
