@@ -50,7 +50,7 @@ details summary ~ * {
     GUI.style.borderRadius = '10px';
     GUI.style.position = 'absolute';
     GUI.style.textAlign = 'center';
-    GUI.style.fontFamily = 'Time New Roman;
+    GUI.style.fontFamily = 'Georgia;
     GUI.style.color = 'white';
     GUI.style.overflow = 'hidden';
     GUI.style.top = '50px';
@@ -151,7 +151,7 @@ details summary ~ * {
     bodyDiv.appendChild(footer);
     footer.style.fontSize = '0.9rem';
     footer.style.paddingBottom = '5px';
-    footer.innerHTML = (`<span>GUI by Aqlite<br> Scripted by Aqlite <a style="color: lightblue" href="https://twitter.com/youtube">youtube</a></span>`);
+    footer.innerHTML = (`<span>GUI by Aqlite<br> Scripted by Aqlite <a style="color: lightblue" href="https://youtube.com/youtube">Youtube</a></span>`);
 
     var getValues = () => new Promise((e, t) => {
         try {
