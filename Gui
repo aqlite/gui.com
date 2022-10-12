@@ -20,7 +20,7 @@ details > summary::-webkit-details-marker {
     display: none;
 }
 details summary ~ * {
-    animation: sweep .5s ease-in-out;
+    animation: sweep .2s ease-in-out;
 }
 
 @keyframes sweep {
