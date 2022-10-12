@@ -1,2 +1,2 @@
 # gui.com
-Just a random gui for blooket i totally made
+Just a random gui for games i totally made
